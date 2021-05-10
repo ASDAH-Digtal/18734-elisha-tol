@@ -2,13 +2,13 @@
 # 18734
 ## Create a web page using a template (Level 1 Unit Standard)
 
-Name: 
+Name: Palota Elisha Tolai
 
-Date: 
+Date: 10/05/2021
 
-Homeroom: 
+Homeroom: 10VV
 
-Teacher: 
+Teacher: Mr Malaitai 
 
 # Instructions:
 
