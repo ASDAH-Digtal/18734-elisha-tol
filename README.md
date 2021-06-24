@@ -15,20 +15,20 @@ Teacher: Mr Malaitai
 ## Complete the following:
 1. What is the purpose of the web page?
 
-*INSERT ANSWER HERE*
+Our teacher made us do it for credits.
 
 2. Who is the target audience of the web page?
 
-*INSERT ANSWER HERE*
+im not sure
 
 3. What resources (e.g. images, videos etc) will you need to create your web page? 
 
-*INSERT ANSWER HERE*
+haikyu videos and images
 
 4. Create a conceptual design of the web page and upload it to your repository.
 
 5. 
-
+  
 ## Outcome 1
 ### Plan a web page
 | Outcome | Evidence |
